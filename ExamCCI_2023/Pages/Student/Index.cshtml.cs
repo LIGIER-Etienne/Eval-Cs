@@ -15,9 +15,15 @@ namespace ExamCCI_2023.Pages.Student
 
         public IndexModel(ApplicationDbContext context)
         {
+            _context = context;
         }
 
-        public IList<Model.Student> Student { get; set; } = default!;
-
+        public IList<Model.Student> Students { get; set; } = default!;
+        public async Task OnGetAsync() {
+            if (_context.Students != null)
+            {
+                Students = await _context.Students.ToListAsync();
+            }
+        }
     }
 }
