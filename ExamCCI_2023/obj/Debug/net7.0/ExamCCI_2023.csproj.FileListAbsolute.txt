@@ -544,3 +544,15 @@ C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\obj\Debug\net7.0\scopedcss\proj
 C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\obj\Debug\net7.0\ExamCCI_2023.csproj.CopyComplete
 C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\obj\Debug\net7.0\ExamCCI_2023.genruntimeconfig.cache
 C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\obj\Debug\net7.0\ref\ExamCCI_2023.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\HealthChecks.NpgSql.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\HealthChecks.SqlServer.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Carbon.Common.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Carbon.Domain.Abstractions.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Carbon.Domain.EntityFrameworkCore.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Carbon.ExceptionHandling.Abstractions.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Carbon.WebApplication.EntityFrameworkCore.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Mapster.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Npgsql.dll
+C:\Users\etien\source\repos\Eval-Cs\ExamCCI_2023\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
