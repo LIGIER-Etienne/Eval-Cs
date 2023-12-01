@@ -14,9 +14,8 @@ namespace Model
         {
         
         }
-        public ApplicationDbContext()
-        {
-            // this.Database.SetConnectionString();
+        public ApplicationDbContext() {
+            this.Database.SetConnectionString("server=localhost;port=3307;database=ExamCCI_2023;uid=root;password=LEcygne290902");
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
